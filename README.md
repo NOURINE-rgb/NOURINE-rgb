@@ -1,3 +1,4 @@
+# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 # 💫 About Me:
 🔭 I'm currently working on a home services app while exploring Clean Architecture<br>👯 I’m looking to collaborate on mobile app projects<br>🌱 I’m currently learning back-end dev(django)<br>💬 Ask me about anything related to flutter,firebase and solving problem<br>⚡ Fun fact : Learning new tech stacks feels like unlocking new superpowers 🦸‍♂️⚡
 
@@ -22,3 +23,8 @@
 [![](https://visitcount.itsvg.in/api?id=NOURINE-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOURINE-rgb/NOURINE-rgb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOURINE-rgb/NOURINE-rgb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NOURINE-rgb/NOURINE-rgb/output/github-snake.svg" />
+</picture>
