@@ -1,4 +1,7 @@
-# Hello World!, I'm Yacine, an Algerian Mobile Developer 👋🏼:
+<p align="center">
+  <img src="welcome.gif" alt="Welcome GIF" width="400"/>
+</p>
+# Hello World! I'm Yacine, an Algerian Mobile Developer 👋🏼
 # 💫 About Me:
 🔭 I'm currently working on a home services app while exploring Clean Architecture<br>👯 I’m looking to collaborate on mobile app projects<br>🌱 I’m currently learning back-end dev(django)<br>💬 Ask me about anything related to flutter,firebase and solving problem<br>⚡ Fun fact : Learning new tech stacks feels like unlocking new superpowers 🦸‍♂️⚡
 
