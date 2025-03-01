@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="welcome.gif" alt="Welcome GIF" width="400"/>
+  <img src="welcome.gif" alt="Welcome GIF" width="650"/>
 </p>
 
 # Hello World! I'm Yacine, an Algerian Mobile Developer 👋🏼
