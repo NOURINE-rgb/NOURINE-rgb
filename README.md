@@ -5,7 +5,7 @@
 # Hello World! I'm Yacine, an Algerian Mobile Developer 👋🏼
 
 # 💫 About Me:
-🔭 I'm currently working on a home services app while exploring Clean Architecture<br>💬 Ask me about anything related to flutter,firebase and solving problem<br>⚡ Fun fact : Learning new tech stacks feels like unlocking new superpowers 🦸‍♂️⚡<br>📭 reach me via mohamednourine382@gmail.com
+🔭 I'm currently working on a news app while exploring Clean Architecture with MVVM pattern<br>💬 Ask me about anything related to flutter,firebase and solving problem<br>⚡ Fun fact : Learning new tech stacks feels like unlocking new superpowers 🦸‍♂️⚡<br>📭 reach me via mohamednourine382@gmail.com
 
 
 ## 🌐 Socials:
